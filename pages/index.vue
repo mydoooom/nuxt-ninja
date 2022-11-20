@@ -1,8 +1,7 @@
 <template>
-  <div>
-    <h2>Hello World</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti fugiat id, iste quam recusandae reprehenderit sed tempore! Delectus, eum illum.</p>
-  </div>
+  <h2>Hello World</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti fugiat id, iste quam recusandae reprehenderit
+    sed tempore! Delectus, eum illum.</p>
 </template>
 
 <script setup>

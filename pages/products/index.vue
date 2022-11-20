@@ -1,12 +1,15 @@
 <template>
   <div>
     <h2>Products</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti fugiat id, iste quam recusandae reprehenderit sed tempore! Delectus, eum illum.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti fugiat id, iste quam recusandae reprehenderit
+      sed tempore! Delectus, eum illum.</p>
   </div>
 </template>
 
 <script setup>
-
+definePageMeta({
+  layout: 'products'
+})
 </script>
 
 <style scoped>
